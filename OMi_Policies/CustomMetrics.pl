@@ -1,3 +1,6 @@
+#Use in a scheduled task policy.
+#Consume generated data in a performance graph from the UI
+
 use strict;
 use warnings;
 use oaperlapi;
