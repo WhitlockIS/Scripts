@@ -4,6 +4,5 @@ choco install slack -y
 choco install FoxitReader -y
 choco install flashplayerplugin -y
 choco install jre8 -y
-choco install webexplayer -y
-choco install lastpass -y
+choco install lastpass -y --ignore-checksums
 choco install teamviewer -y
