@@ -6,4 +6,6 @@ All scripts are "as is" with no warranty or implied fitness for production use. 
 
 If you use the code, a shout out would be cool.  Otherwise, have at it!
 
-### Support is available from Whitlock Infrastructure Solutions https://whitlockis.com
+Most works fall under GNU GPL v3
+
+### Paid support is available from Whitlock Infrastructure Solutions https://whitlockis.com
