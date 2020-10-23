@@ -6,4 +6,4 @@ If you use the code, a shout out would be cool.  Otherwise, have at it!
 
 Most works fall under GNU GPL v3
 
-### Paid support is available from Whitlock Infrastructure Solutions https://whitlockis.com
+### Paid support is available from Whitlock Infrastructure Solutions software_support@whitlockis.com
