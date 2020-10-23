@@ -2,5 +2,6 @@
 
 This can be the most work for a legacy OM upgrade, and while Monitoring Automation dictates a new thought process around policy grouping, sometimes, one needs to forklift in the legacy structure and deploy “as-is”
 
+![](https://github.com/WhitlockIS/Scripts/blob/master/Micro%20Focus/TG2CF/images/tg2cf_image1.png)
 
 Instructions
